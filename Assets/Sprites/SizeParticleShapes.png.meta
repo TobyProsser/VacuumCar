@@ -1,0 +1,3504 @@
+fileFormatVersion: 2
+guid: 72d9b7a88c9d20e4e9ef680964ce0286
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5486273183744752764
+    second: SizeParticleShapes_0
+  - first:
+      213: 2704021957665775344
+    second: SizeParticleShapes_1
+  - first:
+      213: 9135776797896745438
+    second: SizeParticleShapes_2
+  - first:
+      213: 6151556764143732965
+    second: SizeParticleShapes_3
+  - first:
+      213: 1745117565863733134
+    second: SizeParticleShapes_4
+  - first:
+      213: 2978801218580211079
+    second: SizeParticleShapes_5
+  - first:
+      213: -8326703811752174554
+    second: SizeParticleShapes_6
+  - first:
+      213: -7345860091532940841
+    second: SizeParticleShapes_7
+  - first:
+      213: 6765873481245029825
+    second: SizeParticleShapes_8
+  - first:
+      213: -6327725275554826973
+    second: SizeParticleShapes_9
+  - first:
+      213: -2487074356913912700
+    second: SizeParticleShapes_10
+  - first:
+      213: -8322345610561183888
+    second: SizeParticleShapes_11
+  - first:
+      213: 7675325521981724442
+    second: SizeParticleShapes_12
+  - first:
+      213: -2303558122684900511
+    second: SizeParticleShapes_13
+  - first:
+      213: 1733820040830342893
+    second: SizeParticleShapes_14
+  - first:
+      213: -3412399941461474076
+    second: SizeParticleShapes_15
+  - first:
+      213: 7072885675433017144
+    second: SizeParticleShapes_16
+  - first:
+      213: -7844234904940368607
+    second: SizeParticleShapes_17
+  - first:
+      213: 996970158872322968
+    second: SizeParticleShapes_18
+  - first:
+      213: -998341959841089489
+    second: SizeParticleShapes_19
+  - first:
+      213: -9116455742155192340
+    second: SizeParticleShapes_20
+  - first:
+      213: 377865464173007268
+    second: SizeParticleShapes_21
+  - first:
+      213: 4000487764855639872
+    second: SizeParticleShapes_22
+  - first:
+      213: -1724282540611542028
+    second: SizeParticleShapes_23
+  - first:
+      213: 7235614651518089786
+    second: SizeParticleShapes_24
+  - first:
+      213: 6394141380454808944
+    second: SizeParticleShapes_25
+  - first:
+      213: -7061306380952011938
+    second: SizeParticleShapes_26
+  - first:
+      213: -2637323053413109785
+    second: SizeParticleShapes_27
+  - first:
+      213: 6317956504181519142
+    second: SizeParticleShapes_28
+  - first:
+      213: 2446463967790466162
+    second: SizeParticleShapes_29
+  - first:
+      213: 4937865262192004875
+    second: SizeParticleShapes_30
+  - first:
+      213: 8117945883105832458
+    second: SizeParticleShapes_31
+  - first:
+      213: -4294683518838750035
+    second: SizeParticleShapes_32
+  - first:
+      213: 3874323733354627750
+    second: SizeParticleShapes_33
+  - first:
+      213: -3050919258925814017
+    second: SizeParticleShapes_34
+  - first:
+      213: 4745413144922239856
+    second: SizeParticleShapes_35
+  - first:
+      213: -4733085070687591702
+    second: SizeParticleShapes_36
+  - first:
+      213: 4610634333265532791
+    second: SizeParticleShapes_37
+  - first:
+      213: -1935444674219260639
+    second: SizeParticleShapes_38
+  - first:
+      213: -200996431009339427
+    second: SizeParticleShapes_39
+  - first:
+      213: -1758551707864346547
+    second: SizeParticleShapes_40
+  - first:
+      213: -7703438114875666571
+    second: SizeParticleShapes_41
+  - first:
+      213: -7082472527097192927
+    second: SizeParticleShapes_42
+  - first:
+      213: 4534663177591211044
+    second: SizeParticleShapes_43
+  - first:
+      213: -8583282784469298168
+    second: SizeParticleShapes_44
+  - first:
+      213: -5999508419424962466
+    second: SizeParticleShapes_45
+  - first:
+      213: 6518427827899776221
+    second: SizeParticleShapes_46
+  - first:
+      213: 3364430135828248002
+    second: SizeParticleShapes_47
+  - first:
+      213: -6103242831599027497
+    second: SizeParticleShapes_48
+  - first:
+      213: -983296624849872725
+    second: SizeParticleShapes_49
+  - first:
+      213: 6955138185952884078
+    second: SizeParticleShapes_50
+  - first:
+      213: 8311339699101600915
+    second: SizeParticleShapes_51
+  - first:
+      213: -4279527939956672436
+    second: SizeParticleShapes_52
+  - first:
+      213: 2586654901885015230
+    second: SizeParticleShapes_53
+  - first:
+      213: -120510390633227547
+    second: SizeParticleShapes_54
+  - first:
+      213: -7096375867958676994
+    second: SizeParticleShapes_55
+  - first:
+      213: -8410704678992414459
+    second: SizeParticleShapes_56
+  - first:
+      213: 1859376422351728534
+    second: SizeParticleShapes_57
+  - first:
+      213: 8131955188154874356
+    second: SizeParticleShapes_58
+  - first:
+      213: 259122361310197491
+    second: SizeParticleShapes_59
+  - first:
+      213: -6003109383705077685
+    second: SizeParticleShapes_60
+  - first:
+      213: -9094089262835360934
+    second: SizeParticleShapes_61
+  - first:
+      213: -5327451901693533051
+    second: SizeParticleShapes_62
+  - first:
+      213: 3858763328613933529
+    second: SizeParticleShapes_63
+  - first:
+      213: 9038885403607576242
+    second: SizeParticleShapes_64
+  - first:
+      213: 213505072916602897
+    second: SizeParticleShapes_65
+  - first:
+      213: 2397249434744969413
+    second: SizeParticleShapes_66
+  - first:
+      213: 5888081243961533211
+    second: SizeParticleShapes_67
+  - first:
+      213: 2106885889941125881
+    second: SizeParticleShapes_68
+  - first:
+      213: 575838011596884383
+    second: SizeParticleShapes_69
+  - first:
+      213: -7900421060916680467
+    second: SizeParticleShapes_70
+  - first:
+      213: -4593486563181860558
+    second: SizeParticleShapes_71
+  - first:
+      213: -2007112761349673184
+    second: SizeParticleShapes_72
+  - first:
+      213: -4703194528613742238
+    second: SizeParticleShapes_73
+  - first:
+      213: -1366785516673145488
+    second: SizeParticleShapes_74
+  - first:
+      213: 1860536453855176437
+    second: SizeParticleShapes_75
+  - first:
+      213: -7591471574026530654
+    second: SizeParticleShapes_76
+  - first:
+      213: -2116496341794440094
+    second: SizeParticleShapes_77
+  - first:
+      213: -4448291692016957872
+    second: SizeParticleShapes_78
+  - first:
+      213: -1746109873211020033
+    second: SizeParticleShapes_79
+  - first:
+      213: 4089205535426233042
+    second: SizeParticleShapes_80
+  - first:
+      213: 2181846695616051448
+    second: SizeParticleShapes_81
+  - first:
+      213: -6340971909025456281
+    second: SizeParticleShapes_82
+  - first:
+      213: -4083602831889068851
+    second: SizeParticleShapes_83
+  - first:
+      213: -7718029638205363294
+    second: SizeParticleShapes_84
+  - first:
+      213: -1813032634534893195
+    second: SizeParticleShapes_85
+  - first:
+      213: -265339474162114103
+    second: SizeParticleShapes_86
+  - first:
+      213: 148138471471831855
+    second: SizeParticleShapes_87
+  - first:
+      213: -6910578521507453411
+    second: SizeParticleShapes_88
+  - first:
+      213: -8114434584435142338
+    second: SizeParticleShapes_89
+  - first:
+      213: 1984286453443295954
+    second: SizeParticleShapes_90
+  - first:
+      213: -5524198494125339949
+    second: SizeParticleShapes_91
+  - first:
+      213: 5587702807235287045
+    second: SizeParticleShapes_92
+  - first:
+      213: 1861137414687813907
+    second: SizeParticleShapes_93
+  - first:
+      213: 5918925385299797167
+    second: SizeParticleShapes_94
+  - first:
+      213: -1017378286617882827
+    second: SizeParticleShapes_95
+  - first:
+      213: -2070408584149992314
+    second: SizeParticleShapes_96
+  - first:
+      213: 8020692519589641859
+    second: SizeParticleShapes_97
+  - first:
+      213: 5829825534502031885
+    second: SizeParticleShapes_98
+  - first:
+      213: -8283072664824485998
+    second: SizeParticleShapes_99
+  - first:
+      213: 8150937372859355129
+    second: SizeParticleShapes_100
+  - first:
+      213: -6558680084412397335
+    second: SizeParticleShapes_101
+  - first:
+      213: 3501310208963120400
+    second: SizeParticleShapes_102
+  - first:
+      213: -6449808313250064900
+    second: SizeParticleShapes_103
+  - first:
+      213: -6038400099661628281
+    second: SizeParticleShapes_104
+  - first:
+      213: 858546442272735810
+    second: SizeParticleShapes_105
+  - first:
+      213: -3645528783059248551
+    second: SizeParticleShapes_106
+  - first:
+      213: -582864994449465456
+    second: SizeParticleShapes_107
+  - first:
+      213: -2160219667214017451
+    second: SizeParticleShapes_108
+  - first:
+      213: 8589701532009478869
+    second: SizeParticleShapes_109
+  - first:
+      213: -2316779235382077682
+    second: SizeParticleShapes_110
+  - first:
+      213: -7436137586582876855
+    second: SizeParticleShapes_111
+  - first:
+      213: 7554066969743652763
+    second: SizeParticleShapes_112
+  - first:
+      213: -5926763793798726128
+    second: SizeParticleShapes_113
+  - first:
+      213: -6520233944171333604
+    second: SizeParticleShapes_114
+  - first:
+      213: -5813905526425520194
+    second: SizeParticleShapes_115
+  - first:
+      213: 8088100480792314193
+    second: SizeParticleShapes_116
+  - first:
+      213: -4459048087113778465
+    second: SizeParticleShapes_117
+  - first:
+      213: -7661715174882286666
+    second: SizeParticleShapes_118
+  - first:
+      213: 4669140887177611880
+    second: SizeParticleShapes_119
+  - first:
+      213: 5257017285365122321
+    second: SizeParticleShapes_120
+  - first:
+      213: 590000090339567580
+    second: SizeParticleShapes_121
+  - first:
+      213: 5496373142397527628
+    second: SizeParticleShapes_122
+  - first:
+      213: 1300131349901128079
+    second: SizeParticleShapes_123
+  - first:
+      213: 7187545665646195823
+    second: SizeParticleShapes_124
+  - first:
+      213: -7876791456733635791
+    second: SizeParticleShapes_125
+  - first:
+      213: -2384696702111005907
+    second: SizeParticleShapes_126
+  - first:
+      213: 9127339064705059577
+    second: SizeParticleShapes_127
+  - first:
+      213: 5768949381639260045
+    second: SizeParticleShapes_128
+  - first:
+      213: 5660799112580618170
+    second: SizeParticleShapes_129
+  - first:
+      213: -4736475420710506932
+    second: SizeParticleShapes_130
+  - first:
+      213: -18792158192581512
+    second: SizeParticleShapes_131
+  - first:
+      213: 7654817203520776381
+    second: SizeParticleShapes_132
+  - first:
+      213: 4094881081369839175
+    second: SizeParticleShapes_133
+  - first:
+      213: -68768946569287715
+    second: SizeParticleShapes_134
+  - first:
+      213: 6193697769787957423
+    second: SizeParticleShapes_135
+  - first:
+      213: 1169252710027882189
+    second: SizeParticleShapes_136
+  - first:
+      213: 4209281622004472025
+    second: SizeParticleShapes_137
+  - first:
+      213: -6926795719806130101
+    second: SizeParticleShapes_138
+  - first:
+      213: 5623933447653220000
+    second: SizeParticleShapes_139
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SizeParticleShapes_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 7227
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c7bd1a468232c40800000000000000
+      internalID: 5486273183744752764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_1
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 7245
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe568bd4ad968520800000000000000
+      internalID: 2704021957665775344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_2
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 7250
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed124e1289cc8ce70800000000000000
+      internalID: 9135776797896745438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_3
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 7245
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8407ed848be5550800000000000000
+      internalID: 6151556764143732965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_4
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 6880
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e872a9c1e27e73810800000000000000
+      internalID: 1745117565863733134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_5
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 7245
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78569f90de3d65920800000000000000
+      internalID: 2978801218580211079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_6
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 7250
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cde9efffa917c80800000000000000
+      internalID: -8326703811752174554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_7
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 7245
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9e572ba234e0a90800000000000000
+      internalID: -7345860091532940841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_8
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 7250
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c578d4851635ed50800000000000000
+      internalID: 6765873481245029825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_9
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 6880
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3253b4a33676f28a0800000000000000
+      internalID: -6327725275554826973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_10
+      rect:
+        serializedVersion: 2
+        x: 4410
+        y: 7250
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484c92aac032c7dd0800000000000000
+      internalID: -2487074356913912700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_11
+      rect:
+        serializedVersion: 2
+        x: 4815
+        y: 7245
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f1878c2c6118c80800000000000000
+      internalID: -8322345610561183888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_12
+      rect:
+        serializedVersion: 2
+        x: 5210
+        y: 7250
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17d53985eb348a60800000000000000
+      internalID: 7675325521981724442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_13
+      rect:
+        serializedVersion: 2
+        x: 5615
+        y: 7245
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b96e9971e1800e0800000000000000
+      internalID: -2303558122684900511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_14
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 7250
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de655261424cf0810800000000000000
+      internalID: 1733820040830342893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_15
+      rect:
+        serializedVersion: 2
+        x: 6415
+        y: 7245
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e400a93558b4a0d0800000000000000
+      internalID: -3412399941461474076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_16
+      rect:
+        serializedVersion: 2
+        x: 6810
+        y: 7250
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f322d4c00f72260800000000000000
+      internalID: 7072885675433017144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6850
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d2f4c1aeda32390800000000000000
+      internalID: -7844234904940368607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_18
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 6880
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893ef3bc313f5dd00800000000000000
+      internalID: 996970158872322968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_19
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 6880
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28fd47e64d2522f0800000000000000
+      internalID: -998341959841089489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_20
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 6880
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce70546bdc7db7180800000000000000
+      internalID: -9116455742155192340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_21
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 6880
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a19bec33a27e3500800000000000000
+      internalID: 377865464173007268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_22
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 6880
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f44883d66948730800000000000000
+      internalID: 4000487764855639872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_23
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 6880
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3e07a3a2e1218e0800000000000000
+      internalID: -1724282540611542028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_24
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 6880
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3af85b80311a6460800000000000000
+      internalID: 7235614651518089786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_25
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 6880
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d72a935bd8cb850800000000000000
+      internalID: 6394141380454808944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_26
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 6880
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bf7294243310e90800000000000000
+      internalID: -7061306380952011938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_27
+      rect:
+        serializedVersion: 2
+        x: 6210
+        y: 6880
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efec53f7a8566bd0800000000000000
+      internalID: -2637323053413109785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_28
+      rect:
+        serializedVersion: 2
+        x: 6410
+        y: 6850
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623bb1277f3eda750800000000000000
+      internalID: 6317956504181519142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_29
+      rect:
+        serializedVersion: 2
+        x: 6625
+        y: 6880
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27481fb440693f120800000000000000
+      internalID: 2446463967790466162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f02b54b42d68440800000000000000
+      internalID: 4937865262192004875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e2e5c15ccb8a070800000000000000
+      internalID: 8117945883105832458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_32
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da444e408183664c0800000000000000
+      internalID: -4294683518838750035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_33
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2c77f88ec54c530800000000000000
+      internalID: 3874323733354627750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_34
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe24553915f8a5d0800000000000000
+      internalID: -3050919258925814017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_35
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0733f8fec181bd140800000000000000
+      internalID: 4745413144922239856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_36
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae226f58434b05eb0800000000000000
+      internalID: -4733085070687591702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_37
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77713877f734cff30800000000000000
+      internalID: 4610634333265532791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_38
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1254dbeb25be325e0800000000000000
+      internalID: -1935444674219260639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_39
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd721989fcae53df0800000000000000
+      internalID: -200996431009339427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_40
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40d695f98e5897e0800000000000000
+      internalID: -1758551707864346547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_41
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f81ad59d3e71590800000000000000
+      internalID: -7703438114875666571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_42
+      rect:
+        serializedVersion: 2
+        x: 4815
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e98ead2c006bd90800000000000000
+      internalID: -7082472527097192927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_43
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4244e54622c5eee30800000000000000
+      internalID: 4534663177591211044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_44
+      rect:
+        serializedVersion: 2
+        x: 5615
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8045bf0a8cd02e880800000000000000
+      internalID: -8583282784469298168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_45
+      rect:
+        serializedVersion: 2
+        x: 6210
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58b53911e67dbca0800000000000000
+      internalID: -5999508419424962466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_46
+      rect:
+        serializedVersion: 2
+        x: 6415
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcbcf7c29b167a50800000000000000
+      internalID: 6518427827899776221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_47
+      rect:
+        serializedVersion: 2
+        x: 6625
+        y: 6445
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c579ad026bd0be20800000000000000
+      internalID: 3364430135828248002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6050
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da37942bfcec4ba0800000000000000
+      internalID: -6103242831599027497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_49
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 6050
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba89bfeede0aa52f0800000000000000
+      internalID: -983296624849872725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_50
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 6050
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65f979845d958060800000000000000
+      internalID: 6955138185952884078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_51
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 6010
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c8d84cb6fc75370800000000000000
+      internalID: 8311339699101600915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_52
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 6010
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48f58433001c94c0800000000000000
+      internalID: -4279527939956672436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_53
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 6050
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb41167bde4a5e320800000000000000
+      internalID: 2586654901885015230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_54
+      rect:
+        serializedVersion: 2
+        x: 6210
+        y: 6010
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea109e207cd35ef0800000000000000
+      internalID: -120510390633227547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_55
+      rect:
+        serializedVersion: 2
+        x: 6410
+        y: 6050
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef13bad0fbb948d90800000000000000
+      internalID: -7096375867958676994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_56
+      rect:
+        serializedVersion: 2
+        x: 6625
+        y: 6010
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509f0f108ac274b80800000000000000
+      internalID: -8410704678992414459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5645
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fe2063105ddc910800000000000000
+      internalID: 1859376422351728534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 5575
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9bd5f98228ad070800000000000000
+      internalID: 8131955188154874356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_59
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 5575
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6314b2a66989300800000000000000
+      internalID: 259122361310197491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_60
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 5575
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48d17442dba0bca0800000000000000
+      internalID: -6003109383705077685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_61
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 5575
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b110d7ffd4bc180800000000000000
+      internalID: -9094089262835360934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_62
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 5575
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584e391b8b61116b0800000000000000
+      internalID: -5327451901693533051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_63
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 5575
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d166528dc41d8530800000000000000
+      internalID: 3858763328613933529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_64
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 5575
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be2e7f6262907d70800000000000000
+      internalID: 9038885403607576242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_65
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 5575
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11020fc8bb586f200800000000000000
+      internalID: 213505072916602897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_66
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 6010
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8daf3e8adb44120800000000000000
+      internalID: 2397249434744969413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_67
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 5575
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13a7fae1baa6b150800000000000000
+      internalID: 5888081243961533211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_68
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 5575
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa393cdd892d3d10800000000000000
+      internalID: 2106885889941125881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_69
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 5575
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f994661ee99cdf700800000000000000
+      internalID: 575838011596884383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_70
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 5575
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8eb0047e01c5290800000000000000
+      internalID: -7900421060916680467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_71
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 5575
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239e301ee48a040c0800000000000000
+      internalID: -4593486563181860558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_72
+      rect:
+        serializedVersion: 2
+        x: 6210
+        y: 5575
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f6993e39d4524e0800000000000000
+      internalID: -2007112761349673184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_73
+      rect:
+        serializedVersion: 2
+        x: 6415
+        y: 5645
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269ca6cae75eabeb0800000000000000
+      internalID: -4703194528613742238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_74
+      rect:
+        serializedVersion: 2
+        x: 6625
+        y: 5575
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0756c8a60d3380de0800000000000000
+      internalID: -1366785516673145488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5250
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6e3b71c04f1d910800000000000000
+      internalID: 1860536453855176437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_76
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 5140
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a05ca323dca5a690800000000000000
+      internalID: -7591471574026530654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_77
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 5140
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cbde27ac1b0a2e0800000000000000
+      internalID: -2116496341794440094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_78
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 5140
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0560200364e7442c0800000000000000
+      internalID: -4448291692016957872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_79
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 5140
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc6474525294c7e0800000000000000
+      internalID: -1746109873211020033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_80
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 5140
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d244a8d4c6cfb830800000000000000
+      internalID: 4089205535426233042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_81
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 5140
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8fd8e720a774e10800000000000000
+      internalID: 2181846695616051448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_82
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 5140
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f9ec705a75008a0800000000000000
+      internalID: -6340971909025456281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_83
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 5140
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc09793cd02457c0800000000000000
+      internalID: -4083602831889068851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_84
+      rect:
+        serializedVersion: 2
+        x: 5795
+        y: 5140
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab25d89fec04e490800000000000000
+      internalID: -7718029638205363294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_85
+      rect:
+        serializedVersion: 2
+        x: 6210
+        y: 5140
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5796b5cbc60d6d6e0800000000000000
+      internalID: -1813032634534893195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_86
+      rect:
+        serializedVersion: 2
+        x: 6625
+        y: 5140
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1ada17723515cf0800000000000000
+      internalID: -265339474162114103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_87
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4705
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bd5a9a72b4e0200800000000000000
+      internalID: 148138471471831855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_88
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 5140
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16aa11d271b810a0800000000000000
+      internalID: -6910578521507453411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_89
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 4705
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e315991dcbcb36f80800000000000000
+      internalID: -8114434584435142338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_90
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 4705
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da7b16240a998b10800000000000000
+      internalID: 1984286453443295954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_91
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 4705
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da49e0fcba1653b0800000000000000
+      internalID: -5524198494125339949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_92
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 4705
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50856b729128b8d40800000000000000
+      internalID: 5587702807235287045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_93
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 4705
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311f7a03e9614d910800000000000000
+      internalID: 1861137414687813907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_94
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 4705
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa426d2374f342250800000000000000
+      internalID: 5918925385299797167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_95
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 4705
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f02ffa6db81e1f0800000000000000
+      internalID: -1017378286617882827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_96
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 4705
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cf1d9bc5e6443e0800000000000000
+      internalID: -2070408584149992314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_97
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 4705
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ef5c2e9593f4f60800000000000000
+      internalID: 8020692519589641859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_98
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 5140
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02de769f63b7e050800000000000000
+      internalID: 5829825534502031885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_99
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 5140
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29763640c4d9c0d80800000000000000
+      internalID: -8283072664824485998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_100
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 5140
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffccb7ea52fd1170800000000000000
+      internalID: 8150937372859355129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_101
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 4705
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e88b2d6633eaf4a0800000000000000
+      internalID: -6558680084412397335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_102
+      rect:
+        serializedVersion: 2
+        x: 6210
+        y: 4705
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d02b59517279030800000000000000
+      internalID: 3501310208963120400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_103
+      rect:
+        serializedVersion: 2
+        x: 6415
+        y: 4845
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf55e5bf28dad76a0800000000000000
+      internalID: -6449808313250064900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_104
+      rect:
+        serializedVersion: 2
+        x: 6625
+        y: 4705
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c3cf72a1b433ca0800000000000000
+      internalID: -6038400099661628281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_105
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4450
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24287d2c07b2aeb00800000000000000
+      internalID: 858546442272735810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_106
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 4270
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a9a4bf2ea786dc0800000000000000
+      internalID: -3645528783059248551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_107
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 4270
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f54dd206f39e7f0800000000000000
+      internalID: -582864994449465456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_108
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 4270
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c55e278ab5502e0800000000000000
+      internalID: -2160219667214017451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_109
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 4270
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dabd0e7800c43770800000000000000
+      internalID: 8589701532009478869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_110
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 4270
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07dc0c6f8529dfd0800000000000000
+      internalID: -2316779235382077682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_111
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 4705
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d0cca63488dc890800000000000000
+      internalID: -7436137586582876855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_112
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 4705
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97f415c2ef65d860800000000000000
+      internalID: 7554066969743652763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_113
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 4270
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01efafa1bb7efbda0800000000000000
+      internalID: -5926763793798726128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_114
+      rect:
+        serializedVersion: 2
+        x: 5795
+        y: 4270
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18393106c97385a0800000000000000
+      internalID: -6520233944171333604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_115
+      rect:
+        serializedVersion: 2
+        x: 6210
+        y: 4270
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7f9b32abbd05fa0800000000000000
+      internalID: -5813905526425520194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_116
+      rect:
+        serializedVersion: 2
+        x: 6410
+        y: 4450
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151ca41e884be3070800000000000000
+      internalID: 8088100480792314193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_117
+      rect:
+        serializedVersion: 2
+        x: 6625
+        y: 4270
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdab23bc3674e12c0800000000000000
+      internalID: -4459048087113778465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_118
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3835
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3ebe654ae1ca590800000000000000
+      internalID: -7661715174882286666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_119
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 3835
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a497216ee1cc040800000000000000
+      internalID: 4669140887177611880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_120
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 4270
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115c6404e5da4f840800000000000000
+      internalID: 5257017285365122321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_121
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 3835
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7632ac4f9103800800000000000000
+      internalID: 590000090339567580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_122
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 4270
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c462a91804a074c40800000000000000
+      internalID: 5496373142397527628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_123
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 3835
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81b438039efa0210800000000000000
+      internalID: 1300131349901128079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_124
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 4270
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f647dbf93ba4fb360800000000000000
+      internalID: 7187545665646195823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_125
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 3835
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b5f8337e300b290800000000000000
+      internalID: -7876791456733635791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_126
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 3835
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23c0adebfad7eed0800000000000000
+      internalID: -2384696702111005907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_127
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 4270
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa8a484582daae70800000000000000
+      internalID: 9127339064705059577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_128
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 4270
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8741dbb5ec6f0050800000000000000
+      internalID: 5768949381639260045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_129
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 3835
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7d63afcc23f8e40800000000000000
+      internalID: 5660799112580618170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_130
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 3835
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e6e2523b8a44eb0800000000000000
+      internalID: -4736475420710506932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_131
+      rect:
+        serializedVersion: 2
+        x: 5615
+        y: 4045
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8744e56b1ac3dbff0800000000000000
+      internalID: -18792158192581512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_132
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 4050
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8a76c80bf5b3a60800000000000000
+      internalID: 7654817203520776381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_133
+      rect:
+        serializedVersion: 2
+        x: 6210
+        y: 3835
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746448cd5a0f3d830800000000000000
+      internalID: 4094881081369839175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_134
+      rect:
+        serializedVersion: 2
+        x: 6625
+        y: 3835
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7e828e10fab0ff0800000000000000
+      internalID: -68768946569287715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_135
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 6880
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa027565e4f64f550800000000000000
+      internalID: 6193697769787957423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_136
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 3835
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceefd115250a3010800000000000000
+      internalID: 1169252710027882189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_137
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 3835
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8182f555f5a6a30800000000000000
+      internalID: 4209281622004472025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_138
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 3835
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4862491ef31fdf90800000000000000
+      internalID: -6926795719806130101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SizeParticleShapes_139
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 3835
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aedecb7ca93c0e40800000000000000
+      internalID: 5623933447653220000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
